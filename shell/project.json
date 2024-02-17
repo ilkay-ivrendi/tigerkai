@@ -1,0 +1,9 @@
+{
+  "name": "shell",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "shell/src",
+  "prefix": "tigerkai",
+  "tags": [],
+  "projectType": "library",
+  "targets": {}
+}

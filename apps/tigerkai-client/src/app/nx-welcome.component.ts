@@ -2,7 +2,7 @@ import { Component, ViewEncapsulation } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 @Component({
-  selector: 'tigerkai-workspace-nx-welcome',
+  selector: 'tigerkai-nx-welcome',
   standalone: true,
   imports: [CommonModule],
   template: `
